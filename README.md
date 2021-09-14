@@ -2,4 +2,4 @@
 
 Hey
 
-Ik ben Daniël
+Ik ben Daniël en ik doe de opleiding Software Developer Web & Apps
